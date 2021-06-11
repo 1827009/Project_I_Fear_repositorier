@@ -1,0 +1,33 @@
+
+trap.png
+size: 1802,1400
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 2
+  size: 1795, 732
+  orig: 1795, 732
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 736
+  size: 1798, 662
+  orig: 1798, 662
+  offset: 0, 0
+  index: -1
+
+trap2.png
+size: 2004,1552
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 2
+  size: 2000, 1548
+  orig: 2000, 1548
+  offset: 0, 0
+  index: -1

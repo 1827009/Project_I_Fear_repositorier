@@ -1,0 +1,27 @@
+
+title.png
+size: 1856,1402
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TITLE1
+  rotate: false
+  xy: 2, 466
+  size: 1738, 398
+  orig: 1738, 398
+  offset: 0, 0
+  index: -1
+TITLE2
+  rotate: false
+  xy: 2, 866
+  size: 1852, 534
+  orig: 1852, 534
+  offset: 0, 0
+  index: -1
+monster
+  rotate: false
+  xy: 2, 2
+  size: 505, 462
+  orig: 505, 462
+  offset: 0, 0
+  index: -1
