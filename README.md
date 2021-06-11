@@ -4,4 +4,5 @@ assetに
 DynamicBone
 Oculus
 SteamVR
+Spine
 が必要
